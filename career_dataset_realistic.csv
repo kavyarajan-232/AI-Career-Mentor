@@ -1,0 +1,1011 @@
+Student_ID,Interest,Primary_Skill,Coding_Score,Math_Score,Communication_Score,Projects_Count,Certifications_Count,GitHub_Score,Personality_Type,Career
+1,Software Development,Python,70,59,69,8,0,53,Creative,Software Engineer
+2,Web Development,Linux,69,95,72,4,3,79,Creative,Frontend Developer
+3,Cloud Computing,Java,61,98,98,10,3,85,Creative,Cloud Engineer
+4,Software Development,Networking,68,66,86,4,5,53,Creative,Software Engineer
+5,Cloud Computing,Networking,96,52,80,9,2,88,Creative,Cloud Engineer
+6,AI,Linux,91,74,72,4,2,73,Technical,Software Engineer
+7,Cloud Computing,Linux,55,99,92,4,3,94,Creative,Cloud Engineer
+8,Web Development,HTML/CSS,50,53,58,0,4,56,Technical,Backend Developer
+9,Software Development,Python,58,89,55,5,1,87,Analytical,Software Engineer
+10,Cybersecurity,Java,72,91,74,0,5,79,Creative,Ethical Hacker
+11,Cybersecurity,Networking,92,63,62,5,0,65,Technical,Security Analyst
+12,Software Development,SQL,77,76,91,2,0,83,Technical,Software Engineer
+13,Cloud Computing,Java,76,76,94,7,3,76,Creative,DevOps Engineer
+14,AI,Linux,75,53,72,8,2,99,Technical,Software Engineer
+15,Cloud Computing,Java,87,86,69,5,4,48,Technical,Cloud Engineer
+16,Web Development,Linux,89,80,99,1,1,100,Technical,Frontend Developer
+17,Data Science,Networking,99,78,98,7,2,51,Technical,Data Scientist
+18,Data Science,HTML/CSS,73,100,94,0,4,98,Creative,Data Scientist
+19,Cloud Computing,Java,70,92,50,4,0,70,Analytical,Cloud Engineer
+20,Web Development,Linux,97,82,88,3,1,81,Technical,Frontend Developer
+21,Cloud Computing,Java,59,94,73,9,2,46,Technical,DevOps Engineer
+22,Cloud Computing,SQL,89,79,50,0,3,87,Creative,Cloud Engineer
+23,AI,SQL,56,63,81,7,0,84,Creative,Software Engineer
+24,Web Development,HTML/CSS,61,66,65,10,0,78,Technical,Backend Developer
+25,Web Development,HTML/CSS,85,69,98,2,2,73,Technical,Frontend Developer
+26,Web Development,Java,59,65,73,6,4,97,Technical,Frontend Developer
+27,Data Science,Networking,61,64,66,10,1,90,Creative,Data Scientist
+28,AI,Python,62,69,98,8,2,99,Technical,Data Scientist
+29,Data Science,Java,65,67,68,3,4,100,Analytical,Data Scientist
+30,Web Development,Linux,96,69,100,1,3,47,Technical,Frontend Developer
+31,Web Development,Networking,63,52,73,1,4,59,Technical,Backend Developer
+32,Web Development,Networking,53,59,75,5,5,50,Creative,Backend Developer
+33,Web Development,Networking,70,55,96,0,1,41,Analytical,Frontend Developer
+34,Data Science,Java,52,73,70,10,2,63,Technical,Data Analyst
+35,Cybersecurity,Networking,70,57,73,10,2,69,Analytical,Ethical Hacker
+36,AI,Networking,71,88,99,9,1,64,Analytical,Software Engineer
+37,Cybersecurity,Java,100,58,51,6,5,77,Creative,Security Analyst
+38,Cloud Computing,Python,95,86,97,10,4,91,Analytical,DevOps Engineer
+39,Data Science,Networking,86,100,73,1,1,82,Analytical,Data Scientist
+40,Cybersecurity,Java,82,94,79,2,5,93,Technical,Security Analyst
+41,Cybersecurity,Linux,87,91,54,1,5,51,Analytical,Security Analyst
+42,Data Science,HTML/CSS,68,68,66,1,2,55,Creative,Data Scientist
+43,Software Development,Python,97,62,59,9,3,98,Technical,Software Engineer
+44,Cloud Computing,Networking,54,76,92,9,3,95,Creative,Cloud Engineer
+45,Data Science,Linux,66,90,86,7,1,88,Technical,Data Analyst
+46,AI,Java,83,76,98,7,3,70,Analytical,Software Engineer
+47,Cybersecurity,Java,73,68,84,1,2,65,Analytical,Security Analyst
+48,AI,SQL,95,96,50,6,2,57,Creative,Software Engineer
+49,Cloud Computing,HTML/CSS,98,66,63,6,5,84,Analytical,Cloud Engineer
+50,Web Development,SQL,66,59,89,1,0,62,Creative,Frontend Developer
+51,Cloud Computing,SQL,68,82,78,3,2,57,Technical,Cloud Engineer
+52,AI,Linux,66,79,57,4,5,99,Analytical,Software Engineer
+53,Data Science,Networking,88,83,77,1,2,50,Technical,Data Analyst
+54,AI,Networking,66,56,53,10,2,57,Analytical,Software Engineer
+55,Web Development,Java,59,89,58,10,3,40,Technical,Frontend Developer
+56,AI,Linux,58,69,63,7,5,40,Creative,Software Engineer
+57,Cybersecurity,Linux,70,88,79,6,4,71,Creative,Security Analyst
+58,Software Development,Python,50,57,87,6,5,63,Analytical,Software Engineer
+59,AI,Java,63,77,59,0,5,63,Creative,Software Engineer
+60,Cybersecurity,Linux,84,92,99,2,1,41,Technical,Security Analyst
+61,Web Development,Networking,54,73,75,10,5,53,Creative,Frontend Developer
+62,AI,Linux,68,73,75,1,1,80,Technical,Software Engineer
+63,Software Development,HTML/CSS,96,94,70,3,3,87,Technical,Software Engineer
+64,Data Science,Networking,96,93,94,10,5,46,Technical,Data Scientist
+65,Cloud Computing,Python,83,77,64,6,4,42,Analytical,Cloud Engineer
+66,Cloud Computing,Java,94,86,96,0,5,59,Technical,DevOps Engineer
+67,Cloud Computing,Python,85,83,76,4,2,52,Creative,Cloud Engineer
+68,Cybersecurity,Java,68,97,82,10,5,81,Creative,Security Analyst
+69,Data Science,Networking,50,82,86,10,0,81,Creative,Data Scientist
+70,Cloud Computing,Python,53,78,50,10,1,55,Analytical,Cloud Engineer
+71,Software Development,Python,52,57,92,4,2,63,Creative,Software Engineer
+72,Data Science,Linux,92,93,70,5,0,43,Creative,Data Scientist
+73,AI,Linux,53,94,71,8,4,54,Analytical,Software Engineer
+74,Cybersecurity,Linux,90,100,84,9,5,97,Creative,Ethical Hacker
+75,Web Development,Linux,95,59,70,5,1,61,Technical,Backend Developer
+76,Cybersecurity,Java,86,62,82,2,3,78,Technical,Security Analyst
+77,Cloud Computing,SQL,98,67,71,10,3,75,Technical,Cloud Engineer
+78,Cloud Computing,Networking,72,78,51,9,3,58,Creative,Cloud Engineer
+79,Software Development,SQL,93,73,85,4,0,72,Creative,Software Engineer
+80,Web Development,Networking,52,94,76,4,1,72,Analytical,Frontend Developer
+81,Data Science,HTML/CSS,66,95,77,2,2,51,Creative,Data Scientist
+82,Data Science,Java,61,77,91,6,3,48,Creative,Data Scientist
+83,Data Science,HTML/CSS,90,74,79,2,0,87,Analytical,Data Scientist
+84,Web Development,HTML/CSS,90,70,89,9,0,100,Analytical,Backend Developer
+85,Software Development,Networking,50,91,97,0,2,88,Creative,Software Engineer
+86,Cybersecurity,Linux,85,56,89,4,5,73,Technical,Security Analyst
+87,Data Science,Linux,92,81,53,3,0,76,Creative,Data Analyst
+88,AI,Java,63,77,97,7,3,42,Technical,Software Engineer
+89,Cloud Computing,Java,87,100,98,5,4,45,Technical,Cloud Engineer
+90,Web Development,Networking,87,51,98,5,3,73,Creative,Frontend Developer
+91,Web Development,HTML/CSS,72,65,70,3,1,71,Technical,Backend Developer
+92,Cloud Computing,Java,53,79,86,1,5,58,Creative,Cloud Engineer
+93,Data Science,Java,54,68,65,6,0,62,Analytical,Data Scientist
+94,Web Development,Python,88,69,76,9,3,84,Creative,Frontend Developer
+95,Software Development,SQL,100,56,75,4,2,68,Analytical,Software Engineer
+96,Data Science,Java,100,95,58,2,4,57,Technical,Data Analyst
+97,Software Development,Java,90,87,71,0,0,54,Technical,Software Engineer
+98,Cybersecurity,HTML/CSS,98,82,84,6,5,45,Analytical,Security Analyst
+99,Data Science,SQL,84,79,59,9,4,74,Creative,Data Scientist
+100,AI,Networking,86,51,59,6,1,50,Technical,Software Engineer
+101,Cloud Computing,Linux,84,76,67,0,2,93,Technical,Cloud Engineer
+102,Cybersecurity,Python,83,98,98,7,4,99,Technical,Security Analyst
+103,Software Development,SQL,68,68,76,4,2,88,Creative,Software Engineer
+104,Software Development,SQL,89,54,56,3,2,83,Technical,Software Engineer
+105,Web Development,Linux,61,65,91,10,5,44,Creative,Backend Developer
+106,Cybersecurity,SQL,94,100,99,4,4,79,Technical,Security Analyst
+107,Data Science,Java,52,95,52,7,0,83,Analytical,Data Analyst
+108,Software Development,Networking,77,82,68,3,5,48,Analytical,Software Engineer
+109,Web Development,Java,70,50,88,0,4,54,Creative,Backend Developer
+110,Cybersecurity,Networking,63,50,73,9,5,82,Creative,Security Analyst
+111,Web Development,Python,89,99,84,6,3,41,Analytical,Frontend Developer
+112,AI,Java,93,66,50,1,3,51,Creative,Software Engineer
+113,AI,SQL,66,53,100,1,0,69,Technical,Software Engineer
+114,Web Development,Networking,52,72,95,0,0,77,Creative,Backend Developer
+115,AI,Java,91,77,98,2,3,74,Creative,Software Engineer
+116,Data Science,Java,91,69,75,4,3,69,Technical,Data Scientist
+117,Cloud Computing,Linux,65,83,83,1,5,71,Technical,DevOps Engineer
+118,AI,Linux,75,91,95,4,5,40,Technical,Software Engineer
+119,Software Development,Java,92,50,76,0,2,93,Creative,Software Engineer
+120,Data Science,HTML/CSS,83,78,92,6,2,97,Analytical,Data Scientist
+121,Software Development,SQL,99,67,62,2,5,75,Technical,Software Engineer
+122,Data Science,Networking,90,83,75,8,0,46,Analytical,Data Scientist
+123,Cloud Computing,Java,72,79,76,1,5,48,Creative,DevOps Engineer
+124,AI,HTML/CSS,84,58,93,7,1,50,Analytical,Software Engineer
+125,Cybersecurity,Python,96,76,60,1,4,43,Analytical,Security Analyst
+126,Cloud Computing,Java,95,94,75,4,5,57,Creative,Cloud Engineer
+127,Software Development,SQL,70,51,95,9,4,72,Technical,Software Engineer
+128,Cloud Computing,Python,60,90,59,2,2,50,Technical,DevOps Engineer
+129,Cloud Computing,Python,62,55,77,2,0,55,Analytical,Cloud Engineer
+130,Cybersecurity,HTML/CSS,100,70,52,10,1,92,Creative,Security Analyst
+131,AI,Java,50,66,66,0,3,69,Analytical,Software Engineer
+132,Data Science,Linux,58,78,76,4,0,95,Technical,Data Scientist
+133,Cybersecurity,HTML/CSS,96,85,96,9,1,81,Technical,Security Analyst
+134,Web Development,Python,74,73,82,7,2,43,Creative,Backend Developer
+135,Data Science,Networking,55,85,66,10,1,82,Analytical,Data Scientist
+136,Cybersecurity,Java,65,50,95,4,4,47,Technical,Security Analyst
+137,Data Science,Linux,92,69,71,6,2,75,Technical,Data Scientist
+138,AI,Networking,75,97,57,7,0,83,Technical,Software Engineer
+139,Data Science,Java,99,100,73,6,3,94,Creative,Data Scientist
+140,AI,SQL,50,67,78,1,2,70,Analytical,Software Engineer
+141,Software Development,HTML/CSS,90,51,56,8,5,92,Analytical,Software Engineer
+142,Cybersecurity,HTML/CSS,79,82,56,2,1,96,Analytical,Security Analyst
+143,Cloud Computing,Java,94,73,96,4,1,85,Technical,DevOps Engineer
+144,Cloud Computing,Python,80,63,99,4,1,78,Analytical,Cloud Engineer
+145,Data Science,Python,84,68,95,5,4,72,Creative,Data Analyst
+146,Software Development,Networking,52,97,86,1,1,60,Analytical,Software Engineer
+147,Cybersecurity,HTML/CSS,84,68,57,3,0,78,Analytical,Security Analyst
+148,Software Development,Linux,95,69,63,10,0,75,Analytical,Software Engineer
+149,Cybersecurity,Python,63,98,96,6,1,68,Technical,Ethical Hacker
+150,Software Development,HTML/CSS,54,73,93,2,5,100,Technical,Software Engineer
+151,Cybersecurity,HTML/CSS,51,100,88,8,2,53,Technical,Ethical Hacker
+152,Data Science,HTML/CSS,71,99,64,3,5,99,Technical,Data Scientist
+153,Cybersecurity,Java,59,55,89,9,0,57,Technical,Security Analyst
+154,Data Science,Networking,79,100,57,7,3,52,Analytical,Data Scientist
+155,Cybersecurity,Linux,63,88,98,7,4,53,Technical,Security Analyst
+156,Data Science,Python,52,88,63,6,2,79,Analytical,Data Analyst
+157,Web Development,SQL,89,97,91,7,0,65,Technical,Frontend Developer
+158,Software Development,Linux,80,50,84,7,2,66,Analytical,Software Engineer
+159,Web Development,Java,85,76,91,9,3,54,Creative,Backend Developer
+160,Web Development,Python,94,97,75,9,3,96,Creative,Frontend Developer
+161,Web Development,Python,93,68,100,6,1,43,Creative,Frontend Developer
+162,Data Science,SQL,61,76,79,8,2,49,Technical,Data Analyst
+163,Cloud Computing,SQL,93,50,77,8,3,46,Technical,DevOps Engineer
+164,Data Science,SQL,77,94,82,5,3,89,Analytical,Data Analyst
+165,Data Science,HTML/CSS,52,88,52,5,4,81,Analytical,Data Scientist
+166,Data Science,Linux,90,66,65,8,3,66,Analytical,Data Scientist
+167,Web Development,Linux,61,67,56,7,1,44,Technical,Frontend Developer
+168,Software Development,Java,81,84,78,6,4,70,Analytical,Software Engineer
+169,Cybersecurity,Linux,99,82,58,9,2,97,Creative,Ethical Hacker
+170,Cloud Computing,Python,92,67,86,1,0,78,Technical,Cloud Engineer
+171,Web Development,Java,79,77,78,5,4,45,Technical,Frontend Developer
+172,AI,Python,76,81,98,6,5,100,Analytical,Machine Learning Engineer
+173,Data Science,HTML/CSS,51,100,100,8,1,61,Creative,Data Scientist
+174,Cloud Computing,Networking,69,83,93,3,4,91,Creative,Cloud Engineer
+175,Cybersecurity,Python,73,60,77,5,1,60,Creative,Security Analyst
+176,Cloud Computing,Linux,68,100,79,1,4,44,Creative,DevOps Engineer
+177,Software Development,Python,73,53,99,4,0,67,Creative,Software Engineer
+178,Cloud Computing,HTML/CSS,54,51,57,4,2,62,Technical,Cloud Engineer
+179,AI,Python,67,72,99,0,0,61,Analytical,Machine Learning Engineer
+180,Web Development,Linux,98,58,85,0,1,42,Creative,Frontend Developer
+181,AI,Java,62,96,58,4,0,97,Creative,Software Engineer
+182,Cybersecurity,Python,77,53,73,1,1,77,Creative,Security Analyst
+183,Web Development,Python,63,98,63,10,5,94,Technical,Frontend Developer
+184,Cybersecurity,SQL,94,81,73,4,2,61,Technical,Ethical Hacker
+185,Cybersecurity,Linux,62,91,79,6,5,76,Technical,Ethical Hacker
+186,Data Science,Networking,96,83,52,8,2,93,Analytical,Data Scientist
+187,Data Science,SQL,90,92,86,9,1,40,Analytical,Data Scientist
+188,Web Development,Java,99,74,93,1,4,42,Creative,Frontend Developer
+189,Web Development,Linux,63,55,80,2,2,79,Analytical,Frontend Developer
+190,Software Development,Python,82,76,52,2,4,80,Creative,Software Engineer
+191,Web Development,HTML/CSS,58,87,68,3,1,86,Technical,Frontend Developer
+192,Data Science,Linux,97,82,81,1,4,91,Technical,Data Scientist
+193,Web Development,Linux,70,81,90,3,2,84,Creative,Frontend Developer
+194,Web Development,Java,94,50,80,4,0,53,Creative,Frontend Developer
+195,Cloud Computing,Python,52,57,85,2,0,45,Creative,Cloud Engineer
+196,Cybersecurity,Java,76,88,57,9,1,64,Technical,Security Analyst
+197,Web Development,SQL,54,96,97,6,4,60,Technical,Backend Developer
+198,Software Development,Java,90,59,76,9,4,69,Technical,Software Engineer
+199,Software Development,Python,91,90,94,7,1,70,Technical,Software Engineer
+200,Web Development,Java,60,100,84,6,1,50,Technical,Backend Developer
+201,AI,HTML/CSS,81,71,59,8,5,87,Creative,Software Engineer
+202,Cloud Computing,Linux,76,76,51,5,1,81,Creative,DevOps Engineer
+203,Cybersecurity,Java,63,81,96,0,5,64,Creative,Security Analyst
+204,Cloud Computing,Linux,96,63,86,6,0,91,Technical,DevOps Engineer
+205,Cloud Computing,Python,94,61,92,7,0,88,Analytical,Cloud Engineer
+206,Data Science,SQL,57,81,62,7,2,49,Creative,Data Analyst
+207,Web Development,Linux,66,50,60,7,1,85,Technical,Frontend Developer
+208,Software Development,Linux,71,50,65,3,1,50,Analytical,Software Engineer
+209,Web Development,HTML/CSS,59,92,69,4,1,94,Analytical,Frontend Developer
+210,AI,SQL,67,63,93,4,0,42,Creative,Software Engineer
+211,Cybersecurity,Linux,94,58,65,7,1,47,Technical,Security Analyst
+212,Web Development,HTML/CSS,67,52,97,9,5,41,Technical,Frontend Developer
+213,Software Development,SQL,79,88,87,1,0,62,Technical,Software Engineer
+214,Web Development,SQL,70,81,96,8,0,41,Analytical,Frontend Developer
+215,Software Development,HTML/CSS,56,86,55,6,1,79,Analytical,Software Engineer
+216,AI,Linux,100,100,52,8,5,54,Technical,Software Engineer
+217,Data Science,SQL,58,73,72,8,4,96,Technical,Data Scientist
+218,Cybersecurity,SQL,81,73,83,4,2,90,Analytical,Security Analyst
+219,Cloud Computing,Python,65,78,95,5,0,87,Technical,Cloud Engineer
+220,Cybersecurity,SQL,85,68,82,0,0,67,Analytical,Security Analyst
+221,Data Science,Linux,84,100,63,3,3,85,Technical,Data Scientist
+222,AI,Linux,97,97,84,1,0,59,Technical,Software Engineer
+223,AI,SQL,91,51,61,4,3,58,Creative,Software Engineer
+224,AI,Networking,77,94,67,5,2,49,Creative,Software Engineer
+225,Software Development,Linux,80,64,78,8,5,61,Creative,Software Engineer
+226,Data Science,Python,52,72,52,8,1,63,Analytical,Data Scientist
+227,Data Science,SQL,50,68,96,10,5,99,Analytical,Data Analyst
+228,Data Science,Networking,54,92,51,9,0,43,Analytical,Data Scientist
+229,Software Development,Linux,76,67,57,6,0,85,Technical,Software Engineer
+230,Data Science,Linux,53,100,96,7,0,90,Technical,Data Scientist
+231,Web Development,Java,61,50,100,10,1,50,Analytical,Frontend Developer
+232,Cybersecurity,Linux,96,64,68,0,0,62,Technical,Ethical Hacker
+233,AI,HTML/CSS,61,61,96,5,0,72,Technical,Software Engineer
+234,Data Science,Java,86,94,79,5,5,89,Analytical,Data Scientist
+235,AI,HTML/CSS,53,69,64,7,4,60,Technical,Software Engineer
+236,Data Science,Java,58,100,54,5,4,54,Creative,Data Scientist
+237,Data Science,Python,84,95,95,3,2,41,Technical,Data Analyst
+238,Web Development,SQL,97,58,82,6,3,86,Analytical,Backend Developer
+239,Cloud Computing,Java,79,77,51,10,2,74,Creative,Cloud Engineer
+240,Cloud Computing,Python,60,81,94,1,4,83,Creative,DevOps Engineer
+241,Web Development,Java,76,61,86,0,4,73,Technical,Backend Developer
+242,Software Development,Linux,58,66,54,3,3,98,Creative,Software Engineer
+243,Cybersecurity,HTML/CSS,83,77,56,7,5,48,Analytical,Security Analyst
+244,Cybersecurity,Linux,83,86,55,7,4,42,Analytical,Security Analyst
+245,Cloud Computing,SQL,100,89,56,7,2,98,Creative,Cloud Engineer
+246,Web Development,Linux,90,98,75,4,3,99,Technical,Backend Developer
+247,Cybersecurity,Python,100,77,88,5,0,87,Creative,Security Analyst
+248,Cloud Computing,HTML/CSS,53,88,82,8,4,44,Technical,DevOps Engineer
+249,AI,HTML/CSS,68,79,90,6,0,41,Analytical,Software Engineer
+250,Data Science,Linux,98,68,67,3,1,47,Technical,Data Analyst
+251,Software Development,Python,52,92,74,1,1,91,Technical,Software Engineer
+252,Web Development,Java,60,86,91,8,4,53,Technical,Backend Developer
+253,Web Development,Networking,51,84,74,7,5,98,Analytical,Frontend Developer
+254,Software Development,Java,60,50,63,3,0,84,Creative,Software Engineer
+255,Software Development,Python,100,59,100,7,0,100,Analytical,Software Engineer
+256,Cybersecurity,Networking,100,96,92,3,5,78,Creative,Security Analyst
+257,Software Development,Python,51,58,83,6,2,46,Analytical,Software Engineer
+258,Data Science,SQL,90,100,70,8,5,56,Creative,Data Scientist
+259,Cloud Computing,HTML/CSS,67,66,81,6,4,86,Technical,Cloud Engineer
+260,Cloud Computing,Networking,85,70,53,5,3,99,Analytical,DevOps Engineer
+261,Software Development,SQL,66,76,59,9,1,64,Creative,Software Engineer
+262,Software Development,HTML/CSS,71,94,76,4,2,84,Creative,Software Engineer
+263,Cybersecurity,Java,75,92,82,0,1,75,Analytical,Security Analyst
+264,Data Science,HTML/CSS,55,80,68,0,0,46,Creative,Data Scientist
+265,Cybersecurity,Python,70,59,66,2,5,84,Technical,Security Analyst
+266,Cybersecurity,Java,57,54,74,7,0,85,Technical,Security Analyst
+267,Cloud Computing,SQL,69,70,91,5,0,48,Creative,Cloud Engineer
+268,Data Science,Python,57,82,97,6,0,44,Creative,Data Analyst
+269,Software Development,Linux,88,62,90,9,0,44,Creative,Software Engineer
+270,Data Science,Networking,66,93,100,7,5,51,Technical,Data Analyst
+271,Software Development,SQL,97,58,92,6,0,86,Analytical,Software Engineer
+272,Web Development,Linux,88,57,97,0,5,55,Creative,Backend Developer
+273,Data Science,HTML/CSS,60,100,98,1,0,74,Creative,Data Scientist
+274,Cloud Computing,Networking,98,87,57,5,4,85,Technical,DevOps Engineer
+275,Cybersecurity,SQL,65,91,72,0,1,84,Creative,Security Analyst
+276,Cloud Computing,Linux,86,100,60,4,0,79,Creative,Cloud Engineer
+277,Data Science,Linux,65,54,83,1,5,62,Analytical,Data Analyst
+278,Data Science,HTML/CSS,58,92,92,3,2,92,Technical,Data Scientist
+279,AI,Java,100,100,53,0,5,79,Creative,Software Engineer
+280,Web Development,Java,73,63,61,6,4,50,Technical,Frontend Developer
+281,Data Science,Python,86,89,85,2,3,82,Technical,Data Scientist
+282,AI,SQL,96,76,78,2,0,53,Creative,Software Engineer
+283,Cybersecurity,Java,59,85,73,5,0,65,Technical,Security Analyst
+284,Cloud Computing,Python,78,61,74,4,3,68,Creative,Cloud Engineer
+285,Software Development,Java,75,96,68,5,4,68,Analytical,Software Engineer
+286,AI,SQL,82,99,90,5,2,81,Creative,Software Engineer
+287,Web Development,HTML/CSS,72,99,94,0,0,61,Analytical,Backend Developer
+288,Cybersecurity,Python,65,84,77,3,2,89,Technical,Security Analyst
+289,AI,SQL,99,79,89,5,2,44,Analytical,Software Engineer
+290,Web Development,Networking,71,62,100,9,2,59,Creative,Frontend Developer
+291,AI,Linux,55,71,66,0,1,73,Creative,Software Engineer
+292,Web Development,Python,67,80,58,7,2,58,Analytical,Frontend Developer
+293,Cloud Computing,Networking,66,72,52,0,3,58,Creative,Cloud Engineer
+294,Cybersecurity,Networking,87,95,58,4,2,51,Analytical,Security Analyst
+295,Cloud Computing,Networking,80,100,69,9,5,72,Creative,DevOps Engineer
+296,Data Science,HTML/CSS,72,67,65,0,2,92,Technical,Data Scientist
+297,Web Development,Python,52,65,80,0,2,59,Technical,Backend Developer
+298,Cybersecurity,SQL,90,98,79,6,1,65,Creative,Security Analyst
+299,Cloud Computing,HTML/CSS,57,80,92,0,4,81,Creative,Cloud Engineer
+300,Web Development,Python,90,74,84,7,0,94,Analytical,Backend Developer
+301,Cloud Computing,Linux,87,85,73,2,5,48,Technical,DevOps Engineer
+302,Software Development,SQL,91,66,64,4,0,79,Creative,Software Engineer
+303,Web Development,SQL,58,50,50,3,3,87,Analytical,Backend Developer
+304,Web Development,Python,71,55,61,3,0,64,Creative,Backend Developer
+305,Cybersecurity,Java,96,79,67,7,5,100,Technical,Security Analyst
+306,Software Development,HTML/CSS,67,91,64,8,4,87,Technical,Software Engineer
+307,Software Development,Linux,68,80,58,5,5,92,Creative,Software Engineer
+308,Cloud Computing,SQL,70,63,97,1,2,91,Technical,Cloud Engineer
+309,Web Development,Networking,76,50,85,4,1,88,Creative,Backend Developer
+310,Cybersecurity,Java,72,62,84,0,1,59,Technical,Security Analyst
+311,Cybersecurity,SQL,73,62,74,2,0,93,Technical,Security Analyst
+312,Cybersecurity,Linux,78,73,56,8,4,73,Creative,Security Analyst
+313,Data Science,Python,79,75,92,3,0,43,Creative,Data Scientist
+314,AI,Linux,72,52,84,8,5,54,Analytical,Software Engineer
+315,Cloud Computing,Networking,76,69,96,10,0,60,Analytical,Cloud Engineer
+316,Cybersecurity,Linux,64,91,97,0,0,99,Creative,Security Analyst
+317,Cybersecurity,Networking,89,67,58,10,3,90,Analytical,Security Analyst
+318,Cybersecurity,HTML/CSS,80,56,95,3,1,83,Analytical,Security Analyst
+319,Cloud Computing,HTML/CSS,78,66,85,0,5,61,Creative,Cloud Engineer
+320,Cloud Computing,Networking,72,98,94,10,3,43,Analytical,Cloud Engineer
+321,Data Science,Java,92,89,61,1,3,92,Analytical,Data Scientist
+322,Web Development,HTML/CSS,67,87,59,4,0,89,Technical,Frontend Developer
+323,Cloud Computing,Java,57,83,70,7,5,46,Analytical,Cloud Engineer
+324,Cloud Computing,HTML/CSS,50,98,76,0,3,97,Analytical,Cloud Engineer
+325,Software Development,Python,90,82,96,4,5,94,Technical,Software Engineer
+326,Cybersecurity,Networking,63,72,94,5,0,42,Creative,Security Analyst
+327,Web Development,Linux,91,69,68,6,5,92,Analytical,Frontend Developer
+328,Data Science,Linux,87,64,85,5,0,49,Creative,Data Scientist
+329,Cybersecurity,Networking,100,94,84,6,3,45,Creative,Security Analyst
+330,Web Development,Java,75,97,68,8,3,50,Analytical,Frontend Developer
+331,Web Development,Java,61,98,85,2,3,87,Technical,Frontend Developer
+332,AI,Linux,100,97,72,10,3,77,Technical,Software Engineer
+333,Software Development,SQL,78,96,55,6,0,59,Creative,Software Engineer
+334,AI,Python,55,100,94,1,1,53,Analytical,Machine Learning Engineer
+335,AI,Java,53,58,79,4,1,44,Analytical,Software Engineer
+336,Cybersecurity,Networking,76,71,99,7,2,75,Creative,Security Analyst
+337,Web Development,Networking,75,57,83,5,1,60,Technical,Backend Developer
+338,AI,HTML/CSS,83,60,97,9,1,73,Technical,Software Engineer
+339,Software Development,HTML/CSS,56,81,71,9,5,68,Analytical,Software Engineer
+340,Software Development,Python,65,92,95,4,1,88,Creative,Software Engineer
+341,Data Science,Java,59,92,91,2,3,54,Technical,Data Scientist
+342,Web Development,Python,58,94,83,1,5,54,Technical,Frontend Developer
+343,Cloud Computing,HTML/CSS,64,84,60,5,4,77,Creative,Cloud Engineer
+344,Cloud Computing,Linux,61,93,98,3,2,50,Technical,Cloud Engineer
+345,Data Science,Networking,74,92,52,5,0,57,Creative,Data Scientist
+346,Data Science,Networking,84,95,94,10,2,93,Creative,Data Scientist
+347,Cybersecurity,HTML/CSS,97,94,87,0,0,75,Creative,Security Analyst
+348,Software Development,Java,52,52,67,7,1,54,Analytical,Software Engineer
+349,Cloud Computing,Java,53,79,56,9,2,84,Technical,DevOps Engineer
+350,Cybersecurity,HTML/CSS,57,64,53,1,4,97,Analytical,Security Analyst
+351,Cloud Computing,Linux,52,57,82,9,4,93,Analytical,Cloud Engineer
+352,AI,Networking,86,81,94,2,4,59,Creative,Software Engineer
+353,Data Science,SQL,98,63,54,10,4,42,Analytical,Data Scientist
+354,Data Science,SQL,64,65,52,5,4,71,Technical,Data Scientist
+355,Cloud Computing,HTML/CSS,89,96,67,6,4,89,Technical,Cloud Engineer
+356,Cloud Computing,Python,55,75,71,1,1,92,Technical,Cloud Engineer
+357,Cybersecurity,SQL,80,61,95,7,3,78,Technical,Security Analyst
+358,Web Development,Python,73,92,68,2,3,71,Technical,Frontend Developer
+359,AI,Linux,57,77,99,5,3,47,Analytical,Software Engineer
+360,Web Development,Linux,87,93,100,7,2,49,Creative,Frontend Developer
+361,Data Science,Python,95,75,97,9,5,55,Analytical,Data Scientist
+362,Cloud Computing,SQL,96,51,91,1,4,43,Technical,Cloud Engineer
+363,Software Development,SQL,85,59,84,8,5,73,Technical,Software Engineer
+364,Cloud Computing,Java,55,98,86,2,0,57,Technical,DevOps Engineer
+365,Software Development,Python,97,79,55,7,3,98,Technical,Software Engineer
+366,Cloud Computing,Linux,56,91,55,5,3,94,Technical,Cloud Engineer
+367,Web Development,Python,97,56,92,10,1,68,Analytical,Frontend Developer
+368,Cloud Computing,Python,89,68,80,5,1,65,Creative,Cloud Engineer
+369,Cloud Computing,Networking,66,85,59,6,5,67,Technical,Cloud Engineer
+370,Web Development,Python,81,84,74,6,0,62,Technical,Backend Developer
+371,AI,HTML/CSS,66,57,96,3,5,72,Analytical,Software Engineer
+372,Cybersecurity,Networking,92,63,76,0,3,61,Analytical,Security Analyst
+373,AI,SQL,54,51,56,8,1,44,Technical,Software Engineer
+374,Data Science,SQL,63,89,69,3,1,48,Technical,Data Analyst
+375,Data Science,Linux,79,59,82,4,5,97,Analytical,Data Analyst
+376,Cybersecurity,Linux,98,86,96,5,2,54,Creative,Security Analyst
+377,Cybersecurity,Java,91,51,65,3,3,94,Analytical,Security Analyst
+378,AI,Python,76,98,99,6,1,86,Analytical,Data Scientist
+379,Cloud Computing,HTML/CSS,51,54,63,4,0,92,Creative,Cloud Engineer
+380,Cloud Computing,Networking,87,82,66,10,5,68,Creative,DevOps Engineer
+381,Software Development,Java,66,81,97,7,4,55,Creative,Software Engineer
+382,Cybersecurity,Python,86,58,85,9,0,45,Analytical,Security Analyst
+383,Data Science,SQL,53,100,89,8,0,80,Analytical,Data Scientist
+384,Software Development,Networking,93,73,63,6,0,41,Creative,Software Engineer
+385,Software Development,Linux,75,91,100,9,4,49,Analytical,Software Engineer
+386,Software Development,SQL,85,69,53,6,5,45,Technical,Software Engineer
+387,Cloud Computing,Python,97,57,55,5,0,69,Analytical,DevOps Engineer
+388,AI,Python,79,100,88,5,4,96,Technical,Machine Learning Engineer
+389,Web Development,HTML/CSS,57,65,73,3,3,51,Creative,Frontend Developer
+390,AI,Python,55,100,98,7,5,62,Analytical,Data Scientist
+391,Web Development,HTML/CSS,85,62,86,6,0,95,Analytical,Frontend Developer
+392,AI,HTML/CSS,97,90,85,2,0,58,Analytical,Software Engineer
+393,Cloud Computing,Networking,54,91,65,5,1,86,Analytical,DevOps Engineer
+394,Cloud Computing,Networking,70,96,80,6,2,72,Creative,Cloud Engineer
+395,Web Development,Linux,71,96,73,4,1,45,Analytical,Frontend Developer
+396,Data Science,Java,76,66,70,7,1,78,Analytical,Data Scientist
+397,Web Development,Networking,76,50,100,10,5,45,Technical,Backend Developer
+398,Cloud Computing,Linux,96,93,61,3,5,46,Analytical,Cloud Engineer
+399,Cybersecurity,HTML/CSS,65,90,52,0,1,94,Creative,Security Analyst
+400,Software Development,Java,77,64,58,10,2,61,Creative,Software Engineer
+401,AI,SQL,98,87,62,2,2,94,Technical,Software Engineer
+402,Web Development,Java,70,54,82,6,2,55,Technical,Frontend Developer
+403,Cybersecurity,Linux,85,56,53,7,4,69,Technical,Security Analyst
+404,Data Science,SQL,68,99,71,1,1,72,Creative,Data Scientist
+405,Web Development,Linux,74,95,80,6,4,69,Creative,Backend Developer
+406,Web Development,HTML/CSS,80,95,57,9,4,53,Creative,Frontend Developer
+407,Web Development,Java,61,67,59,5,5,76,Analytical,Backend Developer
+408,Web Development,Python,77,83,65,3,5,57,Creative,Backend Developer
+409,Software Development,Python,59,72,100,0,3,60,Technical,Software Engineer
+410,Software Development,Python,92,84,68,2,2,80,Technical,Software Engineer
+411,Web Development,Networking,91,82,100,10,3,55,Analytical,Frontend Developer
+412,Software Development,SQL,82,78,93,7,1,58,Creative,Software Engineer
+413,Cloud Computing,Networking,66,80,90,5,0,86,Creative,DevOps Engineer
+414,Software Development,SQL,100,90,59,9,4,61,Technical,Software Engineer
+415,Cybersecurity,Java,82,76,86,10,5,95,Creative,Security Analyst
+416,Software Development,Linux,92,98,59,3,5,62,Analytical,Software Engineer
+417,Cybersecurity,Python,99,60,53,0,3,74,Creative,Ethical Hacker
+418,AI,HTML/CSS,94,60,78,8,2,42,Analytical,Software Engineer
+419,Web Development,Networking,77,71,97,9,2,59,Analytical,Frontend Developer
+420,Cybersecurity,Python,90,66,94,0,0,98,Analytical,Security Analyst
+421,Data Science,Java,71,59,80,9,3,87,Analytical,Data Scientist
+422,Data Science,Linux,88,93,61,10,0,69,Technical,Data Analyst
+423,AI,Python,100,89,76,3,2,74,Technical,Machine Learning Engineer
+424,Cybersecurity,Python,98,71,66,7,5,88,Creative,Security Analyst
+425,Software Development,SQL,86,87,73,2,1,67,Technical,Software Engineer
+426,Data Science,Linux,64,92,100,5,0,72,Creative,Data Scientist
+427,Web Development,Linux,85,83,57,7,3,81,Analytical,Backend Developer
+428,Cloud Computing,Linux,91,63,77,6,4,56,Technical,DevOps Engineer
+429,AI,Java,66,59,73,10,1,57,Technical,Software Engineer
+430,AI,Java,94,100,81,6,1,42,Analytical,Software Engineer
+431,Software Development,SQL,51,87,60,1,3,74,Analytical,Software Engineer
+432,Cybersecurity,HTML/CSS,83,82,79,10,5,45,Analytical,Ethical Hacker
+433,AI,Networking,98,54,67,0,3,49,Creative,Software Engineer
+434,Cloud Computing,SQL,97,100,92,4,4,78,Analytical,Cloud Engineer
+435,Cybersecurity,Networking,85,98,74,2,0,92,Technical,Ethical Hacker
+436,Cloud Computing,Java,58,69,65,3,2,96,Technical,Cloud Engineer
+437,Data Science,HTML/CSS,52,91,73,6,4,62,Technical,Data Analyst
+438,Software Development,HTML/CSS,72,63,85,5,3,47,Creative,Software Engineer
+439,Cybersecurity,Java,86,76,88,0,5,63,Analytical,Security Analyst
+440,Cybersecurity,Networking,99,85,92,2,3,83,Creative,Ethical Hacker
+441,Cybersecurity,Java,100,65,73,10,4,96,Technical,Security Analyst
+442,Cybersecurity,Networking,84,55,87,4,2,54,Creative,Ethical Hacker
+443,Software Development,Networking,89,78,57,7,0,42,Creative,Software Engineer
+444,AI,SQL,80,83,54,4,1,41,Creative,Software Engineer
+445,Data Science,SQL,50,98,67,2,3,63,Creative,Data Scientist
+446,Data Science,Java,93,73,82,3,4,100,Technical,Data Scientist
+447,AI,SQL,60,91,72,9,5,95,Analytical,Software Engineer
+448,Software Development,SQL,57,52,95,5,4,64,Creative,Software Engineer
+449,Web Development,Linux,85,72,71,8,1,77,Analytical,Frontend Developer
+450,Cloud Computing,Linux,61,85,52,10,5,49,Analytical,Cloud Engineer
+451,Cloud Computing,Python,88,87,80,8,3,95,Analytical,Cloud Engineer
+452,Software Development,HTML/CSS,79,70,60,6,2,71,Analytical,Software Engineer
+453,Cloud Computing,HTML/CSS,99,59,52,2,0,78,Creative,Cloud Engineer
+454,AI,HTML/CSS,98,54,84,6,2,80,Creative,Software Engineer
+455,Software Development,Java,54,62,50,8,5,45,Technical,Software Engineer
+456,Cloud Computing,Python,73,75,55,8,2,53,Analytical,DevOps Engineer
+457,AI,Java,92,77,62,5,1,68,Analytical,Software Engineer
+458,Web Development,Python,67,86,87,8,2,57,Creative,Frontend Developer
+459,Web Development,HTML/CSS,61,67,71,3,4,61,Creative,Backend Developer
+460,Web Development,Networking,67,65,88,7,5,97,Analytical,Frontend Developer
+461,Cloud Computing,SQL,50,80,57,9,3,49,Technical,Cloud Engineer
+462,AI,Linux,73,52,78,3,4,98,Creative,Software Engineer
+463,Cybersecurity,HTML/CSS,93,82,63,8,5,69,Creative,Security Analyst
+464,Software Development,HTML/CSS,57,56,59,4,5,97,Creative,Software Engineer
+465,Web Development,Networking,71,66,100,7,3,63,Creative,Frontend Developer
+466,Software Development,HTML/CSS,68,62,55,8,2,46,Creative,Software Engineer
+467,AI,Python,50,70,58,5,2,88,Analytical,Data Scientist
+468,AI,Python,51,63,85,10,1,58,Creative,Data Scientist
+469,Data Science,Python,84,99,54,7,0,48,Technical,Data Analyst
+470,Cloud Computing,Java,91,82,86,1,3,74,Creative,Cloud Engineer
+471,Data Science,Networking,93,98,92,2,1,67,Creative,Data Scientist
+472,Software Development,SQL,76,85,79,10,0,68,Creative,Software Engineer
+473,Software Development,Java,54,81,55,10,5,46,Creative,Software Engineer
+474,Software Development,HTML/CSS,88,69,84,7,3,80,Creative,Software Engineer
+475,Cloud Computing,SQL,62,91,96,4,2,69,Technical,Cloud Engineer
+476,Web Development,Linux,78,89,85,1,3,44,Analytical,Frontend Developer
+477,Web Development,Linux,56,82,63,1,1,44,Analytical,Frontend Developer
+478,Web Development,SQL,70,52,71,0,3,83,Creative,Frontend Developer
+479,Web Development,HTML/CSS,64,75,86,10,2,93,Creative,Backend Developer
+480,Data Science,Python,73,99,85,10,2,56,Technical,Data Scientist
+481,Web Development,Linux,73,66,91,10,0,84,Creative,Frontend Developer
+482,Data Science,Java,89,62,89,8,4,42,Creative,Data Scientist
+483,Cloud Computing,Java,55,67,55,7,5,93,Analytical,Cloud Engineer
+484,Data Science,Networking,84,92,89,4,3,82,Creative,Data Scientist
+485,Software Development,Linux,58,54,66,8,2,49,Creative,Software Engineer
+486,Software Development,HTML/CSS,87,60,71,10,0,46,Technical,Software Engineer
+487,Cybersecurity,Python,68,57,93,5,4,98,Technical,Security Analyst
+488,Data Science,HTML/CSS,73,72,72,4,5,100,Analytical,Data Analyst
+489,Cybersecurity,Java,50,60,54,7,5,44,Technical,Ethical Hacker
+490,Software Development,Networking,61,89,61,9,3,70,Creative,Software Engineer
+491,Cloud Computing,Python,57,68,71,5,5,64,Analytical,Cloud Engineer
+492,AI,Python,51,100,83,9,4,72,Analytical,Machine Learning Engineer
+493,Cloud Computing,Python,53,54,81,6,3,95,Technical,Cloud Engineer
+494,Cloud Computing,Networking,89,57,99,10,0,63,Analytical,Cloud Engineer
+495,AI,Java,100,51,91,0,3,98,Analytical,Software Engineer
+496,AI,Networking,84,66,98,9,5,58,Creative,Software Engineer
+497,Cybersecurity,Linux,84,50,59,4,1,42,Creative,Ethical Hacker
+498,Software Development,HTML/CSS,83,99,87,3,1,70,Technical,Software Engineer
+499,AI,Java,78,68,58,6,1,72,Technical,Software Engineer
+500,Cloud Computing,Python,77,80,85,6,5,48,Analytical,Cloud Engineer
+501,Cybersecurity,HTML/CSS,86,77,61,0,4,58,Analytical,Security Analyst
+502,Software Development,Java,85,82,65,0,4,50,Technical,Software Engineer
+503,AI,Python,96,69,92,5,3,61,Creative,Machine Learning Engineer
+504,Web Development,SQL,61,60,68,9,5,48,Analytical,Backend Developer
+505,AI,Java,85,51,91,6,2,66,Analytical,Software Engineer
+506,Software Development,Networking,70,73,73,1,3,56,Analytical,Software Engineer
+507,Cybersecurity,HTML/CSS,89,62,72,4,2,65,Creative,Security Analyst
+508,Web Development,Python,83,66,100,10,3,92,Technical,Backend Developer
+509,Software Development,Python,90,73,98,3,5,47,Creative,Software Engineer
+510,Cloud Computing,HTML/CSS,58,65,78,5,2,72,Technical,Cloud Engineer
+511,Cybersecurity,Networking,88,99,55,1,3,77,Creative,Ethical Hacker
+512,Data Science,Linux,93,57,74,0,1,84,Creative,Data Analyst
+513,Cloud Computing,SQL,73,72,63,10,5,85,Creative,Cloud Engineer
+514,Cloud Computing,HTML/CSS,73,98,74,8,5,63,Creative,DevOps Engineer
+515,Data Science,Linux,63,76,56,6,4,81,Creative,Data Scientist
+516,AI,HTML/CSS,71,59,78,10,5,88,Technical,Software Engineer
+517,Software Development,HTML/CSS,76,98,81,2,5,47,Analytical,Software Engineer
+518,Cybersecurity,HTML/CSS,72,53,88,8,4,79,Technical,Security Analyst
+519,Software Development,Python,88,66,78,9,3,48,Analytical,Software Engineer
+520,Cybersecurity,Networking,100,99,92,7,1,96,Creative,Security Analyst
+521,Data Science,Java,50,79,88,8,5,87,Technical,Data Scientist
+522,Software Development,Java,78,55,67,9,0,66,Creative,Software Engineer
+523,Cybersecurity,Python,100,85,63,4,1,47,Analytical,Security Analyst
+524,Cybersecurity,Python,79,99,51,9,5,52,Technical,Security Analyst
+525,Web Development,Linux,55,89,60,10,1,80,Creative,Frontend Developer
+526,Cloud Computing,Networking,70,85,82,1,0,92,Creative,Cloud Engineer
+527,Data Science,Java,79,100,81,10,2,84,Technical,Data Scientist
+528,Web Development,Java,67,80,88,8,4,98,Technical,Frontend Developer
+529,Cloud Computing,Java,56,52,82,0,0,66,Technical,Cloud Engineer
+530,Data Science,Python,58,87,51,1,2,65,Analytical,Data Scientist
+531,Software Development,Linux,62,80,53,0,3,46,Technical,Software Engineer
+532,Cloud Computing,HTML/CSS,82,91,96,3,4,43,Technical,Cloud Engineer
+533,Web Development,Python,73,54,96,2,5,84,Analytical,Backend Developer
+534,Data Science,HTML/CSS,55,87,69,8,2,54,Technical,Data Analyst
+535,Cybersecurity,Java,87,64,97,9,0,46,Technical,Security Analyst
+536,Web Development,Networking,56,55,89,10,2,47,Creative,Frontend Developer
+537,Cloud Computing,HTML/CSS,64,78,67,1,3,92,Technical,DevOps Engineer
+538,Data Science,Linux,65,74,78,9,3,70,Technical,Data Scientist
+539,Cloud Computing,Java,51,62,66,10,4,95,Analytical,DevOps Engineer
+540,AI,Java,53,55,85,5,0,89,Creative,Software Engineer
+541,Cloud Computing,HTML/CSS,75,78,50,5,1,90,Creative,DevOps Engineer
+542,Web Development,Python,59,89,61,2,4,43,Technical,Frontend Developer
+543,Web Development,HTML/CSS,85,65,60,6,1,93,Analytical,Backend Developer
+544,Web Development,SQL,81,99,61,10,4,84,Technical,Frontend Developer
+545,Cloud Computing,Java,70,93,83,9,0,70,Analytical,Cloud Engineer
+546,Web Development,Java,62,99,87,2,1,86,Technical,Frontend Developer
+547,Web Development,HTML/CSS,95,72,98,9,2,61,Analytical,Frontend Developer
+548,AI,Linux,58,77,85,8,2,44,Creative,Software Engineer
+549,Data Science,Networking,87,100,80,1,0,51,Analytical,Data Analyst
+550,Software Development,Python,80,51,78,1,3,41,Creative,Software Engineer
+551,Cloud Computing,HTML/CSS,78,89,56,7,1,85,Creative,DevOps Engineer
+552,Cloud Computing,Python,62,70,99,6,1,89,Analytical,DevOps Engineer
+553,Web Development,Linux,89,80,74,3,4,56,Technical,Frontend Developer
+554,Software Development,Networking,60,58,55,0,4,98,Analytical,Software Engineer
+555,Software Development,HTML/CSS,69,74,99,9,2,82,Technical,Software Engineer
+556,Web Development,Java,62,64,72,5,4,94,Creative,Frontend Developer
+557,AI,Java,92,79,77,7,3,40,Analytical,Software Engineer
+558,Web Development,Java,90,77,70,6,4,62,Analytical,Backend Developer
+559,Software Development,Java,65,60,93,1,4,48,Analytical,Software Engineer
+560,AI,Python,95,84,81,8,4,40,Technical,Data Scientist
+561,Cybersecurity,Linux,76,76,50,8,1,82,Creative,Security Analyst
+562,Web Development,Java,94,62,95,10,0,89,Technical,Backend Developer
+563,Cybersecurity,HTML/CSS,88,89,77,3,3,61,Technical,Security Analyst
+564,Software Development,HTML/CSS,53,57,79,3,0,56,Analytical,Software Engineer
+565,Cybersecurity,Java,71,78,56,9,4,85,Technical,Security Analyst
+566,Data Science,SQL,73,67,67,7,2,95,Analytical,Data Scientist
+567,Web Development,Networking,79,94,73,6,5,57,Analytical,Frontend Developer
+568,Data Science,Networking,77,96,54,5,3,78,Technical,Data Scientist
+569,Software Development,Java,65,96,91,1,0,87,Technical,Software Engineer
+570,Cybersecurity,Java,97,84,50,7,0,59,Analytical,Security Analyst
+571,Software Development,Java,75,71,54,5,1,41,Creative,Software Engineer
+572,Software Development,Networking,79,55,77,0,0,65,Technical,Software Engineer
+573,Web Development,Python,66,83,70,0,3,68,Creative,Frontend Developer
+574,Software Development,Linux,82,58,56,4,0,45,Technical,Software Engineer
+575,AI,HTML/CSS,55,89,66,8,2,70,Analytical,Software Engineer
+576,Cybersecurity,Java,98,59,58,2,5,85,Technical,Security Analyst
+577,Cybersecurity,Linux,84,50,84,10,2,68,Technical,Security Analyst
+578,AI,HTML/CSS,56,50,100,10,0,51,Creative,Software Engineer
+579,Cybersecurity,Java,64,60,52,0,1,77,Analytical,Security Analyst
+580,Data Science,HTML/CSS,84,74,83,10,3,50,Technical,Data Scientist
+581,Cloud Computing,Python,80,87,67,1,3,88,Creative,Cloud Engineer
+582,Web Development,Linux,80,99,66,0,0,62,Creative,Frontend Developer
+583,AI,SQL,86,90,83,10,0,81,Analytical,Software Engineer
+584,Data Science,HTML/CSS,53,62,73,8,2,79,Creative,Data Scientist
+585,Web Development,SQL,89,84,75,2,4,78,Technical,Frontend Developer
+586,AI,HTML/CSS,69,59,74,1,4,77,Technical,Software Engineer
+587,Software Development,Networking,77,60,84,10,4,48,Creative,Software Engineer
+588,Cloud Computing,Java,73,76,92,3,5,72,Technical,Cloud Engineer
+589,AI,Linux,62,81,50,8,5,80,Analytical,Software Engineer
+590,Cloud Computing,Networking,99,58,71,1,0,58,Creative,Cloud Engineer
+591,AI,Python,62,100,77,7,5,95,Technical,Machine Learning Engineer
+592,Web Development,SQL,54,82,51,3,3,65,Creative,Backend Developer
+593,Cloud Computing,Linux,99,71,60,4,4,58,Creative,DevOps Engineer
+594,Software Development,Linux,72,78,57,5,1,60,Creative,Software Engineer
+595,Data Science,SQL,76,100,89,9,5,85,Analytical,Data Scientist
+596,Software Development,HTML/CSS,52,92,58,10,0,94,Analytical,Software Engineer
+597,Data Science,Networking,73,88,69,5,4,53,Creative,Data Scientist
+598,AI,Networking,73,62,74,3,5,67,Analytical,Software Engineer
+599,Data Science,HTML/CSS,80,97,98,1,5,80,Technical,Data Analyst
+600,Web Development,Java,84,85,84,2,2,78,Creative,Frontend Developer
+601,AI,Networking,62,79,79,3,5,57,Creative,Software Engineer
+602,Cloud Computing,Networking,52,62,71,2,0,84,Creative,DevOps Engineer
+603,Software Development,Networking,68,63,53,6,1,67,Technical,Software Engineer
+604,Cybersecurity,Java,100,82,82,3,1,44,Creative,Security Analyst
+605,Cloud Computing,Networking,60,89,71,7,3,81,Analytical,Cloud Engineer
+606,Web Development,SQL,60,100,57,7,0,53,Creative,Backend Developer
+607,Data Science,HTML/CSS,51,74,72,7,5,60,Technical,Data Scientist
+608,Data Science,HTML/CSS,88,96,70,7,1,62,Analytical,Data Analyst
+609,Software Development,Python,67,90,69,3,0,99,Creative,Software Engineer
+610,Data Science,Python,58,61,56,5,3,82,Technical,Data Scientist
+611,Cloud Computing,Java,93,68,54,6,0,42,Analytical,DevOps Engineer
+612,Software Development,Python,62,92,74,6,3,77,Creative,Software Engineer
+613,Web Development,SQL,67,55,60,7,5,44,Analytical,Frontend Developer
+614,Cloud Computing,HTML/CSS,77,91,70,0,3,85,Technical,DevOps Engineer
+615,Web Development,Linux,74,85,72,9,0,97,Creative,Frontend Developer
+616,Cybersecurity,Networking,52,53,99,1,1,50,Creative,Ethical Hacker
+617,Cloud Computing,Java,81,65,62,8,0,49,Technical,Cloud Engineer
+618,Cloud Computing,Networking,87,52,83,6,5,47,Analytical,Cloud Engineer
+619,AI,SQL,67,60,55,8,4,78,Creative,Software Engineer
+620,Cybersecurity,HTML/CSS,77,87,66,0,2,54,Creative,Security Analyst
+621,Web Development,HTML/CSS,93,94,79,3,0,74,Technical,Backend Developer
+622,Cloud Computing,HTML/CSS,87,77,85,5,0,81,Analytical,Cloud Engineer
+623,Software Development,HTML/CSS,67,88,65,4,4,53,Technical,Software Engineer
+624,Cybersecurity,SQL,63,94,85,2,0,89,Creative,Ethical Hacker
+625,Cloud Computing,SQL,83,63,88,1,4,51,Analytical,Cloud Engineer
+626,Cybersecurity,Networking,69,93,98,0,4,71,Creative,Security Analyst
+627,Web Development,Linux,80,51,63,0,2,83,Analytical,Frontend Developer
+628,Web Development,Python,68,89,85,10,5,90,Analytical,Frontend Developer
+629,AI,Python,87,100,82,9,5,58,Analytical,Machine Learning Engineer
+630,Cloud Computing,Networking,55,63,55,1,0,52,Analytical,Cloud Engineer
+631,Data Science,Linux,51,98,64,3,5,99,Creative,Data Scientist
+632,Cybersecurity,Java,64,66,58,9,4,96,Analytical,Security Analyst
+633,Data Science,Networking,52,100,51,5,0,53,Technical,Data Scientist
+634,Cybersecurity,Java,68,71,73,3,2,70,Technical,Security Analyst
+635,Cloud Computing,Linux,66,54,96,4,4,95,Technical,Cloud Engineer
+636,Data Science,Networking,75,100,83,2,0,62,Creative,Data Scientist
+637,Data Science,Python,99,85,86,8,5,94,Analytical,Data Analyst
+638,Cloud Computing,Networking,88,98,71,9,2,58,Creative,DevOps Engineer
+639,Cybersecurity,Java,70,95,96,4,4,60,Technical,Security Analyst
+640,Cloud Computing,SQL,75,99,95,4,4,61,Analytical,DevOps Engineer
+641,Cybersecurity,Python,85,84,74,4,1,87,Creative,Security Analyst
+642,Cloud Computing,HTML/CSS,77,67,74,3,1,87,Analytical,DevOps Engineer
+643,AI,Networking,81,85,73,5,0,45,Technical,Software Engineer
+644,Cloud Computing,Linux,71,61,87,4,0,60,Analytical,Cloud Engineer
+645,Web Development,HTML/CSS,76,58,53,2,4,85,Technical,Backend Developer
+646,Cloud Computing,SQL,68,76,94,0,3,75,Technical,Cloud Engineer
+647,AI,Networking,52,88,77,4,0,56,Creative,Software Engineer
+648,AI,Networking,97,96,76,10,0,87,Creative,Software Engineer
+649,Software Development,Networking,75,86,73,2,4,75,Creative,Software Engineer
+650,Data Science,Python,50,97,60,0,1,52,Creative,Data Scientist
+651,Web Development,HTML/CSS,92,86,81,1,4,80,Creative,Frontend Developer
+652,Cloud Computing,HTML/CSS,98,77,70,10,5,73,Analytical,Cloud Engineer
+653,Data Science,Java,90,92,61,7,0,46,Analytical,Data Scientist
+654,Web Development,Networking,51,79,65,5,5,63,Analytical,Backend Developer
+655,Software Development,HTML/CSS,96,60,97,3,2,72,Technical,Software Engineer
+656,Web Development,Networking,66,88,70,7,1,46,Creative,Frontend Developer
+657,Software Development,Python,93,74,84,0,2,93,Creative,Software Engineer
+658,Cybersecurity,Linux,76,98,54,4,2,68,Creative,Security Analyst
+659,Web Development,SQL,95,96,75,3,0,58,Technical,Backend Developer
+660,Data Science,HTML/CSS,77,53,57,1,0,90,Analytical,Data Analyst
+661,Data Science,HTML/CSS,52,76,50,2,5,99,Analytical,Data Scientist
+662,Cloud Computing,Linux,95,58,82,10,1,79,Technical,Cloud Engineer
+663,Web Development,Linux,84,57,100,0,5,66,Creative,Frontend Developer
+664,Cybersecurity,Linux,96,96,77,2,0,71,Analytical,Security Analyst
+665,Software Development,HTML/CSS,71,92,88,2,4,84,Creative,Software Engineer
+666,Software Development,Linux,63,63,68,8,0,58,Creative,Software Engineer
+667,Data Science,SQL,62,67,99,1,1,55,Technical,Data Scientist
+668,Cybersecurity,Linux,67,71,59,8,1,78,Technical,Security Analyst
+669,Cloud Computing,Python,58,62,59,1,2,71,Technical,Cloud Engineer
+670,Cloud Computing,Networking,95,60,82,10,2,51,Analytical,Cloud Engineer
+671,Web Development,Java,97,97,100,0,5,41,Technical,Frontend Developer
+672,Web Development,HTML/CSS,93,89,100,7,4,69,Technical,Frontend Developer
+673,Cybersecurity,Networking,56,52,95,5,1,63,Creative,Security Analyst
+674,Cloud Computing,Java,92,55,89,1,3,71,Analytical,DevOps Engineer
+675,Data Science,Networking,75,85,68,5,0,68,Analytical,Data Scientist
+676,Web Development,HTML/CSS,97,88,64,1,5,54,Analytical,Frontend Developer
+677,Web Development,HTML/CSS,78,64,99,7,1,89,Creative,Backend Developer
+678,Software Development,Linux,67,88,94,10,1,68,Technical,Software Engineer
+679,Cybersecurity,Linux,100,98,52,1,0,67,Technical,Security Analyst
+680,Data Science,Networking,79,81,80,0,0,96,Analytical,Data Scientist
+681,Data Science,Linux,87,76,92,7,4,48,Creative,Data Scientist
+682,Cloud Computing,SQL,59,51,83,4,1,55,Analytical,DevOps Engineer
+683,Software Development,Linux,61,67,57,3,3,99,Creative,Software Engineer
+684,AI,Java,83,62,87,3,3,48,Analytical,Software Engineer
+685,Data Science,Java,77,61,100,7,3,59,Analytical,Data Scientist
+686,Cybersecurity,HTML/CSS,82,69,74,6,0,76,Analytical,Security Analyst
+687,Data Science,Linux,79,75,88,8,1,65,Technical,Data Analyst
+688,Cloud Computing,SQL,99,88,91,0,2,69,Analytical,Cloud Engineer
+689,Data Science,Python,58,84,94,9,3,42,Technical,Data Scientist
+690,AI,Linux,90,51,76,3,1,45,Technical,Software Engineer
+691,AI,Linux,52,53,64,5,0,41,Technical,Software Engineer
+692,Web Development,Python,73,97,93,3,2,85,Technical,Frontend Developer
+693,Data Science,Java,69,59,85,1,4,74,Creative,Data Analyst
+694,Web Development,Networking,69,63,60,9,1,54,Creative,Backend Developer
+695,Web Development,Linux,88,96,68,6,3,100,Creative,Frontend Developer
+696,Software Development,SQL,81,94,73,1,1,85,Analytical,Software Engineer
+697,AI,Java,77,51,86,3,0,93,Technical,Software Engineer
+698,Cloud Computing,HTML/CSS,54,99,54,7,0,81,Creative,Cloud Engineer
+699,Cybersecurity,Java,56,56,76,6,4,45,Technical,Ethical Hacker
+700,AI,HTML/CSS,82,100,81,6,5,46,Technical,Software Engineer
+701,Data Science,Linux,59,99,68,9,0,73,Creative,Data Scientist
+702,Cybersecurity,Java,71,58,78,0,2,65,Creative,Ethical Hacker
+703,Data Science,SQL,91,92,80,2,5,90,Analytical,Data Scientist
+704,Data Science,SQL,78,100,61,1,0,64,Technical,Data Scientist
+705,Web Development,Python,67,61,56,10,2,99,Analytical,Frontend Developer
+706,AI,Java,99,93,61,6,1,60,Technical,Software Engineer
+707,AI,Java,58,91,94,10,3,47,Creative,Software Engineer
+708,AI,HTML/CSS,66,87,54,2,5,41,Creative,Software Engineer
+709,Data Science,HTML/CSS,76,96,65,8,4,46,Analytical,Data Scientist
+710,Cybersecurity,Java,78,88,91,3,1,90,Creative,Security Analyst
+711,Software Development,Python,60,95,79,8,0,66,Creative,Software Engineer
+712,Cloud Computing,Python,55,66,69,8,0,48,Technical,DevOps Engineer
+713,Cloud Computing,HTML/CSS,75,59,81,1,5,64,Technical,Cloud Engineer
+714,AI,Networking,81,74,84,9,1,87,Creative,Software Engineer
+715,Cybersecurity,SQL,100,81,61,3,0,56,Technical,Security Analyst
+716,Data Science,Networking,81,72,62,1,2,43,Creative,Data Scientist
+717,Cybersecurity,SQL,88,73,52,1,3,78,Technical,Security Analyst
+718,Web Development,Linux,91,97,64,2,4,87,Analytical,Frontend Developer
+719,Cybersecurity,HTML/CSS,89,75,69,6,1,54,Creative,Security Analyst
+720,Software Development,SQL,64,78,92,7,5,56,Creative,Software Engineer
+721,Web Development,SQL,55,55,63,10,1,76,Creative,Backend Developer
+722,Cloud Computing,Python,87,100,90,4,2,100,Technical,Cloud Engineer
+723,Data Science,Java,73,83,60,8,1,99,Analytical,Data Scientist
+724,Software Development,Python,85,90,57,2,5,87,Technical,Software Engineer
+725,Cloud Computing,HTML/CSS,58,78,74,1,0,76,Analytical,Cloud Engineer
+726,AI,Networking,54,69,72,3,0,73,Technical,Software Engineer
+727,Cloud Computing,Python,70,91,84,7,1,41,Technical,DevOps Engineer
+728,Data Science,Python,70,71,64,0,0,87,Technical,Data Scientist
+729,Cybersecurity,Networking,60,88,70,8,4,45,Analytical,Security Analyst
+730,Software Development,Linux,71,87,56,0,1,86,Creative,Software Engineer
+731,Software Development,Java,82,90,64,10,3,78,Creative,Software Engineer
+732,Web Development,Java,86,79,83,10,1,76,Technical,Frontend Developer
+733,Data Science,SQL,95,75,66,6,5,80,Analytical,Data Analyst
+734,AI,Linux,83,89,58,1,4,68,Creative,Software Engineer
+735,Cybersecurity,Linux,100,50,77,10,0,62,Creative,Security Analyst
+736,AI,SQL,60,78,62,10,3,69,Technical,Software Engineer
+737,AI,HTML/CSS,70,73,78,7,3,89,Creative,Software Engineer
+738,Cloud Computing,HTML/CSS,69,70,75,8,3,51,Technical,DevOps Engineer
+739,AI,HTML/CSS,72,75,59,2,4,73,Technical,Software Engineer
+740,Data Science,HTML/CSS,58,98,56,6,5,65,Creative,Data Scientist
+741,Cloud Computing,SQL,100,93,86,4,2,80,Creative,DevOps Engineer
+742,Cloud Computing,SQL,67,58,56,2,0,46,Analytical,Cloud Engineer
+743,Web Development,Networking,61,73,60,6,3,65,Analytical,Frontend Developer
+744,Data Science,Networking,52,92,88,5,3,40,Analytical,Data Scientist
+745,Software Development,Linux,53,77,92,0,4,99,Technical,Software Engineer
+746,Web Development,Networking,70,71,93,10,4,60,Creative,Backend Developer
+747,AI,HTML/CSS,77,69,82,1,0,78,Creative,Software Engineer
+748,Web Development,Linux,65,96,79,0,5,45,Technical,Frontend Developer
+749,Data Science,Networking,80,71,76,10,4,48,Analytical,Data Scientist
+750,Web Development,Networking,63,53,87,6,4,56,Technical,Backend Developer
+751,Data Science,Java,78,72,78,9,1,67,Analytical,Data Analyst
+752,AI,SQL,78,64,59,6,2,81,Creative,Software Engineer
+753,Cybersecurity,HTML/CSS,81,51,90,10,3,54,Creative,Security Analyst
+754,AI,HTML/CSS,68,61,83,8,3,97,Creative,Software Engineer
+755,Cloud Computing,Python,58,51,74,5,3,45,Creative,Cloud Engineer
+756,Web Development,Linux,67,76,100,0,3,93,Technical,Frontend Developer
+757,Web Development,SQL,81,90,72,8,0,76,Technical,Frontend Developer
+758,Web Development,Linux,51,92,93,2,5,49,Technical,Frontend Developer
+759,Data Science,Python,95,84,64,8,4,83,Analytical,Data Scientist
+760,Cloud Computing,Networking,70,66,73,4,1,83,Analytical,Cloud Engineer
+761,Cybersecurity,Python,89,99,58,9,4,66,Creative,Security Analyst
+762,AI,Networking,92,51,64,6,5,65,Creative,Software Engineer
+763,Data Science,SQL,59,83,98,1,1,54,Technical,Data Scientist
+764,Data Science,Java,62,64,55,8,1,65,Analytical,Data Scientist
+765,Software Development,Python,65,84,83,4,2,77,Technical,Software Engineer
+766,Data Science,SQL,65,83,66,6,3,45,Analytical,Data Scientist
+767,Web Development,Java,67,56,85,7,4,87,Creative,Frontend Developer
+768,Web Development,HTML/CSS,79,69,62,1,5,61,Creative,Frontend Developer
+769,Data Science,Python,74,96,50,4,3,100,Analytical,Data Analyst
+770,AI,HTML/CSS,87,54,79,10,5,45,Analytical,Software Engineer
+771,Software Development,HTML/CSS,78,56,68,8,0,78,Technical,Software Engineer
+772,Cybersecurity,Java,87,58,71,7,0,57,Technical,Security Analyst
+773,Software Development,SQL,59,60,50,2,4,45,Analytical,Software Engineer
+774,Cloud Computing,Networking,65,79,100,0,4,48,Technical,DevOps Engineer
+775,Cloud Computing,SQL,51,88,74,1,4,89,Analytical,Cloud Engineer
+776,Web Development,Linux,52,83,83,6,1,97,Analytical,Backend Developer
+777,Cloud Computing,SQL,76,73,98,1,3,99,Creative,Cloud Engineer
+778,Data Science,HTML/CSS,82,75,80,3,1,94,Analytical,Data Scientist
+779,Data Science,Java,71,100,61,3,1,70,Creative,Data Scientist
+780,Cloud Computing,SQL,77,86,59,7,1,97,Creative,Cloud Engineer
+781,Data Science,Python,94,93,100,9,0,63,Creative,Data Scientist
+782,Software Development,Java,55,92,58,2,0,98,Analytical,Software Engineer
+783,Data Science,SQL,61,100,97,6,0,85,Technical,Data Scientist
+784,Cybersecurity,Python,97,97,75,10,4,72,Technical,Security Analyst
+785,Data Science,Java,80,100,57,1,4,73,Technical,Data Scientist
+786,AI,Networking,72,86,71,10,0,64,Creative,Software Engineer
+787,Data Science,HTML/CSS,70,98,93,1,5,41,Analytical,Data Analyst
+788,Cybersecurity,Networking,59,62,61,6,0,63,Technical,Security Analyst
+789,AI,Linux,66,54,54,8,2,57,Analytical,Software Engineer
+790,Data Science,Linux,74,99,54,6,5,92,Technical,Data Scientist
+791,AI,Linux,77,99,77,4,4,41,Technical,Software Engineer
+792,AI,Java,92,51,53,4,5,74,Technical,Software Engineer
+793,Cloud Computing,HTML/CSS,63,73,90,7,5,59,Technical,Cloud Engineer
+794,Web Development,Python,98,89,83,3,4,42,Analytical,Frontend Developer
+795,Data Science,Python,51,51,72,8,0,93,Creative,Data Analyst
+796,Web Development,Python,66,76,94,5,3,50,Analytical,Backend Developer
+797,Software Development,SQL,68,71,76,8,2,46,Technical,Software Engineer
+798,Web Development,HTML/CSS,92,81,100,6,4,45,Technical,Frontend Developer
+799,Web Development,SQL,63,78,60,5,3,81,Analytical,Backend Developer
+800,Web Development,Linux,98,67,79,3,5,94,Analytical,Frontend Developer
+801,Cybersecurity,Networking,63,100,51,1,3,66,Analytical,Security Analyst
+802,Data Science,HTML/CSS,70,65,50,7,5,48,Technical,Data Analyst
+803,Data Science,Python,63,61,64,7,5,54,Creative,Data Scientist
+804,Cloud Computing,Networking,60,60,53,10,3,65,Technical,Cloud Engineer
+805,Software Development,Java,70,65,62,5,0,55,Creative,Software Engineer
+806,Software Development,Python,70,72,50,3,0,74,Technical,Software Engineer
+807,Cybersecurity,SQL,98,58,82,9,5,81,Technical,Security Analyst
+808,Web Development,Java,99,60,69,2,4,87,Technical,Frontend Developer
+809,Data Science,Networking,87,65,87,10,1,63,Analytical,Data Scientist
+810,AI,HTML/CSS,60,92,52,2,3,92,Analytical,Software Engineer
+811,Software Development,SQL,64,54,73,3,4,44,Technical,Software Engineer
+812,Web Development,Networking,92,52,80,3,2,60,Analytical,Frontend Developer
+813,Cloud Computing,Networking,72,96,83,4,4,100,Technical,Cloud Engineer
+814,Software Development,Python,96,54,54,1,5,43,Creative,Software Engineer
+815,Cybersecurity,Networking,68,85,59,5,2,56,Analytical,Ethical Hacker
+816,Data Science,Linux,61,100,73,10,1,83,Creative,Data Scientist
+817,AI,Python,84,100,84,0,0,86,Creative,Machine Learning Engineer
+818,Cloud Computing,HTML/CSS,57,66,83,10,2,58,Analytical,Cloud Engineer
+819,Cloud Computing,HTML/CSS,66,73,85,7,0,50,Creative,Cloud Engineer
+820,Software Development,HTML/CSS,93,96,98,8,5,92,Creative,Software Engineer
+821,Cybersecurity,SQL,78,85,94,4,1,61,Analytical,Security Analyst
+822,Cybersecurity,SQL,64,75,88,2,5,66,Technical,Ethical Hacker
+823,Cloud Computing,Java,82,91,87,7,5,40,Technical,Cloud Engineer
+824,AI,Java,64,71,53,9,4,99,Technical,Software Engineer
+825,Software Development,Networking,79,87,61,5,3,89,Analytical,Software Engineer
+826,Web Development,Networking,71,83,96,10,1,46,Analytical,Frontend Developer
+827,Cybersecurity,SQL,88,55,77,7,4,90,Creative,Security Analyst
+828,Cybersecurity,HTML/CSS,88,50,88,9,3,93,Creative,Security Analyst
+829,AI,Java,83,70,61,8,5,58,Creative,Software Engineer
+830,Software Development,Linux,60,61,65,8,4,99,Technical,Software Engineer
+831,Cloud Computing,SQL,56,98,50,0,2,51,Analytical,Cloud Engineer
+832,Cybersecurity,SQL,66,99,57,3,3,99,Technical,Security Analyst
+833,Cybersecurity,HTML/CSS,68,76,59,6,0,100,Technical,Security Analyst
+834,Data Science,Networking,99,71,66,3,3,98,Creative,Data Analyst
+835,Data Science,SQL,56,78,66,4,0,60,Creative,Data Analyst
+836,Web Development,Linux,93,68,58,7,4,97,Analytical,Backend Developer
+837,Data Science,Java,68,96,78,1,1,75,Creative,Data Scientist
+838,Cybersecurity,Java,62,51,79,5,5,82,Creative,Security Analyst
+839,Data Science,Networking,80,58,85,2,0,89,Technical,Data Analyst
+840,Cybersecurity,Java,100,74,63,4,4,51,Creative,Security Analyst
+841,Cybersecurity,Python,73,80,69,4,1,99,Creative,Security Analyst
+842,Cloud Computing,SQL,58,55,71,8,1,42,Creative,Cloud Engineer
+843,Cybersecurity,Java,65,58,76,0,0,73,Technical,Security Analyst
+844,Web Development,Python,64,59,79,1,2,77,Technical,Frontend Developer
+845,Data Science,Java,59,57,86,8,3,81,Creative,Data Analyst
+846,Cybersecurity,Networking,51,87,51,10,5,57,Technical,Ethical Hacker
+847,AI,SQL,86,56,76,1,4,88,Creative,Software Engineer
+848,Cloud Computing,Networking,55,64,87,5,0,64,Analytical,Cloud Engineer
+849,Data Science,Networking,51,100,60,5,4,67,Creative,Data Scientist
+850,Web Development,Java,96,90,63,2,3,55,Technical,Backend Developer
+851,Software Development,Linux,81,52,82,10,0,86,Technical,Software Engineer
+852,Cloud Computing,SQL,80,82,62,3,2,74,Analytical,Cloud Engineer
+853,Cybersecurity,Networking,72,84,67,9,4,79,Analytical,Security Analyst
+854,Cloud Computing,Java,100,99,89,6,3,76,Creative,DevOps Engineer
+855,Web Development,SQL,65,64,82,0,5,81,Technical,Backend Developer
+856,AI,Networking,91,97,95,8,4,89,Creative,Software Engineer
+857,Cloud Computing,SQL,71,91,95,7,5,51,Technical,Cloud Engineer
+858,Web Development,Python,99,80,57,4,3,49,Analytical,Backend Developer
+859,Cybersecurity,Linux,88,54,93,8,2,67,Analytical,Security Analyst
+860,Cybersecurity,SQL,55,56,77,10,0,98,Creative,Ethical Hacker
+861,Data Science,Python,82,98,91,4,1,55,Creative,Data Scientist
+862,Cloud Computing,SQL,67,86,64,5,0,59,Technical,Cloud Engineer
+863,Cloud Computing,SQL,81,72,67,10,2,40,Analytical,Cloud Engineer
+864,Cloud Computing,Python,95,67,84,3,1,91,Analytical,DevOps Engineer
+865,Cloud Computing,HTML/CSS,93,69,82,9,2,87,Technical,DevOps Engineer
+866,Software Development,HTML/CSS,91,71,76,10,3,90,Analytical,Software Engineer
+867,Data Science,Linux,94,96,76,0,5,56,Analytical,Data Analyst
+868,Software Development,Linux,57,67,64,8,5,83,Analytical,Software Engineer
+869,Data Science,SQL,80,84,54,3,3,84,Analytical,Data Scientist
+870,Web Development,Linux,84,99,88,6,1,42,Creative,Backend Developer
+871,Data Science,Networking,86,100,79,6,1,86,Creative,Data Scientist
+872,Web Development,Linux,82,92,62,8,2,79,Creative,Frontend Developer
+873,Software Development,Python,50,66,95,0,0,71,Technical,Software Engineer
+874,Cloud Computing,Networking,74,96,81,8,0,77,Technical,Cloud Engineer
+875,Software Development,HTML/CSS,53,55,64,6,3,90,Technical,Software Engineer
+876,Software Development,Linux,100,80,76,5,4,52,Analytical,Software Engineer
+877,Web Development,Java,93,67,84,4,3,81,Analytical,Frontend Developer
+878,Data Science,Linux,99,92,81,4,1,55,Technical,Data Analyst
+879,AI,Networking,75,93,84,0,4,89,Creative,Software Engineer
+880,AI,Java,63,76,89,7,4,94,Creative,Software Engineer
+881,Cloud Computing,HTML/CSS,65,69,57,8,0,50,Creative,DevOps Engineer
+882,Cybersecurity,Linux,100,64,71,8,1,60,Analytical,Security Analyst
+883,Software Development,SQL,51,76,99,6,2,68,Technical,Software Engineer
+884,Software Development,SQL,75,78,73,6,0,70,Creative,Software Engineer
+885,Web Development,SQL,67,55,71,10,4,51,Analytical,Backend Developer
+886,Cybersecurity,Python,55,72,90,2,4,41,Analytical,Security Analyst
+887,Cybersecurity,HTML/CSS,69,57,53,6,4,81,Creative,Security Analyst
+888,Web Development,Linux,85,55,77,8,1,67,Creative,Backend Developer
+889,Cybersecurity,Linux,100,66,93,0,1,67,Creative,Security Analyst
+890,Software Development,Java,94,53,85,6,3,69,Analytical,Software Engineer
+891,Cloud Computing,Networking,87,84,68,3,0,74,Technical,Cloud Engineer
+892,Data Science,Networking,71,93,89,5,0,86,Creative,Data Scientist
+893,Software Development,SQL,50,75,96,10,0,83,Creative,Software Engineer
+894,AI,SQL,87,56,84,1,2,49,Technical,Software Engineer
+895,Data Science,Linux,50,61,76,4,2,45,Analytical,Data Analyst
+896,Software Development,HTML/CSS,67,96,100,7,1,68,Technical,Software Engineer
+897,AI,Python,57,77,77,9,1,97,Analytical,Machine Learning Engineer
+898,Data Science,Linux,83,62,83,8,4,62,Analytical,Data Scientist
+899,Cloud Computing,Python,77,58,58,9,0,49,Creative,DevOps Engineer
+900,AI,Java,70,63,57,3,5,80,Technical,Software Engineer
+901,Cybersecurity,SQL,83,78,77,2,1,59,Technical,Security Analyst
+902,Data Science,Linux,94,62,97,10,1,92,Analytical,Data Analyst
+903,Cloud Computing,Python,62,68,88,5,2,77,Analytical,Cloud Engineer
+904,Cybersecurity,SQL,100,57,88,5,0,86,Creative,Security Analyst
+905,Software Development,Java,85,93,57,10,2,50,Creative,Software Engineer
+906,Cloud Computing,SQL,85,58,65,1,4,49,Technical,Cloud Engineer
+907,Data Science,Linux,88,64,68,9,4,45,Analytical,Data Analyst
+908,AI,Java,84,95,75,8,0,47,Technical,Software Engineer
+909,Web Development,Linux,52,65,94,2,1,50,Technical,Frontend Developer
+910,Cloud Computing,Networking,84,52,87,10,1,58,Analytical,Cloud Engineer
+911,Cloud Computing,Java,74,61,99,2,3,75,Analytical,DevOps Engineer
+912,Cloud Computing,Java,54,71,67,8,0,64,Analytical,DevOps Engineer
+913,Cybersecurity,Java,98,63,93,2,3,86,Creative,Security Analyst
+914,AI,Java,93,85,84,7,2,46,Creative,Software Engineer
+915,Cybersecurity,Java,83,64,68,1,4,58,Analytical,Security Analyst
+916,Data Science,Java,63,57,56,2,1,87,Analytical,Data Scientist
+917,Software Development,Python,57,58,98,6,2,77,Analytical,Software Engineer
+918,Cybersecurity,HTML/CSS,100,81,59,7,3,90,Analytical,Security Analyst
+919,Software Development,Linux,62,82,59,4,0,68,Creative,Software Engineer
+920,Software Development,Networking,59,82,57,8,3,90,Creative,Software Engineer
+921,Software Development,Networking,83,70,91,2,4,41,Analytical,Software Engineer
+922,Data Science,Java,84,92,95,0,5,62,Analytical,Data Analyst
+923,Cloud Computing,HTML/CSS,81,75,75,4,5,60,Creative,DevOps Engineer
+924,Cloud Computing,Java,76,52,79,3,5,93,Analytical,Cloud Engineer
+925,Cybersecurity,Linux,69,56,86,9,2,47,Creative,Ethical Hacker
+926,Software Development,Networking,100,60,99,8,2,94,Creative,Software Engineer
+927,Data Science,Networking,79,65,68,2,2,77,Creative,Data Analyst
+928,AI,Python,92,76,83,3,3,64,Creative,Machine Learning Engineer
+929,Cybersecurity,SQL,67,95,71,10,5,52,Creative,Ethical Hacker
+930,Cybersecurity,SQL,89,99,92,6,0,90,Analytical,Security Analyst
+931,Software Development,Linux,57,69,73,9,1,78,Analytical,Software Engineer
+932,AI,Python,94,80,93,2,4,92,Analytical,Data Scientist
+933,Web Development,SQL,90,83,56,9,4,73,Creative,Backend Developer
+934,Software Development,Networking,62,62,64,3,1,91,Analytical,Software Engineer
+935,Cybersecurity,Networking,68,97,63,1,5,60,Technical,Security Analyst
+936,Web Development,Python,96,76,89,6,0,98,Creative,Frontend Developer
+937,Web Development,SQL,81,81,76,3,5,74,Creative,Frontend Developer
+938,Web Development,HTML/CSS,69,93,60,9,5,80,Technical,Frontend Developer
+939,Cybersecurity,SQL,67,81,92,6,5,83,Creative,Security Analyst
+940,Web Development,Python,62,83,91,7,4,99,Creative,Frontend Developer
+941,Software Development,Networking,67,81,88,5,1,70,Creative,Software Engineer
+942,Data Science,Python,84,96,85,9,2,88,Technical,Data Analyst
+943,Data Science,SQL,55,60,87,9,1,43,Analytical,Data Analyst
+944,Data Science,Python,78,100,60,3,2,93,Analytical,Data Scientist
+945,Data Science,Python,60,92,81,1,0,96,Creative,Data Scientist
+946,AI,Linux,60,66,75,9,0,87,Technical,Software Engineer
+947,AI,Linux,82,91,84,10,2,59,Analytical,Software Engineer
+948,Data Science,Linux,100,89,68,0,4,55,Technical,Data Scientist
+949,Cloud Computing,Linux,66,95,53,6,3,41,Creative,Cloud Engineer
+950,Cybersecurity,SQL,80,85,64,7,2,41,Creative,Security Analyst
+951,Web Development,Java,57,64,61,2,5,69,Analytical,Frontend Developer
+952,Data Science,Java,81,85,54,4,5,68,Analytical,Data Scientist
+953,Cloud Computing,Java,59,71,82,10,3,50,Creative,Cloud Engineer
+954,AI,Java,73,87,95,0,0,88,Creative,Software Engineer
+955,Software Development,Java,87,55,96,9,1,86,Technical,Software Engineer
+956,Web Development,Python,70,93,83,3,2,76,Analytical,Backend Developer
+957,Software Development,SQL,72,61,65,6,2,82,Technical,Software Engineer
+958,Data Science,Java,51,62,64,0,2,86,Technical,Data Analyst
+959,Cybersecurity,SQL,78,84,74,2,0,92,Analytical,Ethical Hacker
+960,AI,Python,77,100,64,8,3,45,Creative,Machine Learning Engineer
+961,Software Development,Linux,59,63,70,6,1,75,Analytical,Software Engineer
+962,Cloud Computing,Python,70,85,73,5,4,70,Analytical,Cloud Engineer
+963,Cybersecurity,HTML/CSS,63,87,50,3,3,61,Analytical,Security Analyst
+964,Data Science,Python,53,84,76,2,0,95,Technical,Data Scientist
+965,Web Development,HTML/CSS,89,97,97,2,2,59,Analytical,Frontend Developer
+966,Data Science,SQL,60,60,85,10,5,76,Creative,Data Scientist
+967,Cybersecurity,Networking,72,85,93,8,3,93,Analytical,Security Analyst
+968,Web Development,SQL,52,90,50,9,1,48,Technical,Backend Developer
+969,Software Development,Linux,67,58,98,0,3,45,Technical,Software Engineer
+970,Software Development,SQL,100,96,65,5,4,88,Creative,Software Engineer
+971,Cybersecurity,SQL,99,76,55,9,2,40,Creative,Ethical Hacker
+972,Software Development,Linux,61,55,59,4,5,81,Analytical,Software Engineer
+973,Web Development,HTML/CSS,50,62,72,3,5,55,Analytical,Frontend Developer
+974,Cybersecurity,Networking,100,69,64,0,4,94,Creative,Security Analyst
+975,Cybersecurity,SQL,100,62,67,7,2,60,Analytical,Security Analyst
+976,Data Science,SQL,93,100,66,10,5,58,Analytical,Data Scientist
+977,Data Science,HTML/CSS,76,85,93,7,2,74,Analytical,Data Analyst
+978,Data Science,Python,95,100,98,5,0,77,Analytical,Data Scientist
+979,Cybersecurity,HTML/CSS,82,87,51,3,5,93,Creative,Security Analyst
+980,Cybersecurity,Linux,79,63,99,10,5,76,Creative,Security Analyst
+981,Data Science,Networking,91,63,78,0,2,64,Analytical,Data Scientist
+982,Web Development,Python,62,95,67,1,1,99,Technical,Frontend Developer
+983,AI,Linux,73,83,94,9,1,77,Analytical,Software Engineer
+984,AI,HTML/CSS,97,69,82,2,3,96,Technical,Software Engineer
+985,Data Science,SQL,62,84,73,10,4,73,Technical,Data Scientist
+986,Data Science,Java,67,63,96,8,5,53,Technical,Data Scientist
+987,Data Science,Networking,84,93,57,2,5,92,Creative,Data Scientist
+988,Data Science,Python,50,67,61,2,5,53,Creative,Data Scientist
+989,Data Science,Networking,81,89,58,4,0,97,Analytical,Data Analyst
+990,Data Science,Linux,100,96,56,9,5,51,Analytical,Data Analyst
+991,AI,Java,88,82,96,0,4,45,Analytical,Software Engineer
+992,Cybersecurity,Java,96,77,73,10,5,51,Technical,Security Analyst
+993,Data Science,Linux,96,56,89,4,5,93,Technical,Data Scientist
+994,Cloud Computing,Java,94,88,78,2,5,91,Technical,Cloud Engineer
+995,Cloud Computing,Networking,71,54,53,3,1,93,Technical,Cloud Engineer
+996,Data Science,SQL,93,80,89,5,3,42,Analytical,Data Scientist
+997,Cloud Computing,Networking,71,83,62,9,5,52,Analytical,DevOps Engineer
+998,Cybersecurity,Python,100,68,68,0,0,95,Analytical,Security Analyst
+999,Software Development,Networking,68,94,84,0,4,81,Creative,Software Engineer
+1000,AI,SQL,96,95,50,4,2,99,Creative,Software Engineer
+1001,Cloud Computing,Networking,77,67,64,6,1,99,Analytical,Cloud Engineer
+1002,Data Science,Python,96,99,79,2,4,91,Creative,Data Scientist
+1003,Data Science,Java,51,51,94,3,5,66,Creative,Data Analyst
+1004,Cloud Computing,HTML/CSS,97,97,83,0,3,80,Technical,Cloud Engineer
+1005,AI,Java,56,82,76,2,4,56,Analytical,Software Engineer
+1006,AI,Networking,72,86,56,6,0,96,Technical,Software Engineer
+1007,AI,HTML/CSS,52,72,79,8,5,90,Technical,Software Engineer
+1008,Data Science,SQL,72,83,86,4,3,93,Creative,Data Scientist
+1009,AI,Networking,57,83,67,3,1,46,Creative,Software Engineer
+1010,Cloud Computing,HTML/CSS,86,88,66,9,5,90,Analytical,DevOps Engineer
